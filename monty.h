@@ -8,7 +8,6 @@
 #include <sys/types.h>
 #include <unistd.h>
 #include <sys/stat.h>
-#define  _GNU_SOURCE
 
 
 
