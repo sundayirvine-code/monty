@@ -18,7 +18,7 @@ void (*go(char *op_f, unsigned int l, stack_t **stak))(stack_t**, unsigned int)
 	instruction_t operation[] = {
 		{"pall", get_pall},
 		{"add", get_add},
-		{"pint", get_pint},
+		/*{"pint", get_pint},*/
 		{"swap", get_swap},
 		{"pop", get_pop},
 		{"sub", get_sub},
